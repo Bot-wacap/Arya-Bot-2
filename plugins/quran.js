@@ -3,8 +3,8 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 QUR'AN BOT:
 Via Copas {SEBARKAN}
 
-*YouTube:*
-_~Drawl Nag_
+*Instagram:*
+_~Uwiw_Bocah_
 
 Juz 1 ⇨ http://j.mp/2b8SiNO
 Juz 2 ⇨ http://j.mp/2b8RJmQ
