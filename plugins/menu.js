@@ -32,8 +32,8 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
       .replace(/%week/g, week)
       .replace(/%date/g, date)
       .replace(/%time/g, time): `
-🤖 [Khocret BOT] 🤖
-Created Bye: @Uwiw_Bocah
+🤖 [Cuppu BOT] 🤖
+Created Bye: @cuppu_gamingch
 
 Hi, ${name} 👋
 Exp: ${exp}
@@ -96,18 +96,18 @@ Cara Tambah XP:
 ╠➥ ${_p}mutechat group
 ║
 ╠═〘 IKLAN 〙 ═
-╠➥ Instagram: @Uwiw_Bocah
+╠➥ Instagram: @cuppu_gamingch
 ╠➥ Github: https://github.com/Bot-wacap
 ║
 ╠═〘 Info Bot 〙 ═
-╠➥ Name : Khocret BOT
+╠➥ Name : Cuppu BOT
 ╠➥ Coded using *Nano* on Android \\w Termux
-╠➥ Request? Wa.me/6285691842186
+╠➥ Request? Wa.me/6282211802299
 ╠═════
 ║ Advanced:
 ║  > return m
 ║
-╠═〘 Khocret BOT 〙═
+╠═〘 Cuppu BOT 〙═
 `.trim()
     conn.reply(m.chat, {...preview, text}, m)
   }
